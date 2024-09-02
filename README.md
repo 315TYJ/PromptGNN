@@ -11,5 +11,4 @@ This code requires the following:
 ### Data
 We evaluate our model on seven benchmark datasets.
 
-### Usage
-To run the code, see the usage instructions at the top of `GPPT.py`.
+
