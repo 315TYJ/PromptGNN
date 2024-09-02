@@ -1,6 +1,7 @@
 # PromptGNN
 
-This repo contains code accompaning the paper, PromptGCN: Bridging Subgraph Gaps in Lightweight GCNs.
+This is the PyTorch implementation of the PromptGCN: Bridging Subgraph Gaps in Lightweight GCNs, as described in our paper:
+![](https://github.com/315TYJ/SR-GNN/blob/main/SR-GNN.png)
 
 ### Dependencies
 This code requires the following:
