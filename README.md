@@ -5,9 +5,10 @@ This is the PyTorch implementation of the PromptGCN: Bridging Subgraph Gaps in L
 
 ### Dependencies
 This code requires the following:
-* python 2.\* or python 3.\*
-* PyTorch v1.8.+
+* python 3.8
+* PyTorch 1.9.0
 * DGL v0.9+
+* OGB 1.3.3
 
 ### Data
 We evaluate our model on seven benchmark datasets.
